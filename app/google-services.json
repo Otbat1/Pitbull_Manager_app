@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773621159047",
+    "project_id": "pitbull-manager-app",
+    "storage_bucket": "pitbull-manager-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773621159047:android:f804102a57ac58cabb9422",
+        "android_client_info": {
+          "package_name": "com.uacam.pitbullmanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773621159047-llrcolm28cj9k8psunm4il35bel3libv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPA2_ZjLK8zBLLthAXsTkhg0VfK-D_eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773621159047-llrcolm28cj9k8psunm4il35bel3libv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
