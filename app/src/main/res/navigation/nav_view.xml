@@ -6,7 +6,7 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.uacam.pitbullmanagerapp.student.fragments.HomeFragment"
+        android:name="com.uacam.pitbullmanagerapp.student.fragments.ClassesViewFragment"
         tools:layout="@layout/fragment_home" />
 
     <fragment

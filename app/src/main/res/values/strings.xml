@@ -67,4 +67,12 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="name_teacher_sing_up">Nombre completo</string>
+    <string name="FirstNameStudent">Nombre</string>
+    <string name="LastNameStudent">Apellidos</string>
+    <string name="title_Pagos">Nombre del Pagos</string>
+    <string name="title_main_pagos">Lista de pagos</string>
+    <string name="Precio">Precio</string>
+    <string name="Cantidad">Dinero</string>
+    <string name="precio">Precio</string>
+    <string name="name_pagos">Nombre del pago</string>
 </resources>

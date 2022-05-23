@@ -13,7 +13,6 @@ import android.widget.TextView
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.google.firebase.auth.ktx.userProfileChangeRequest
 import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.ValueEventListener
@@ -26,8 +25,7 @@ import com.uacam.pitbullmanagerapp.teacher.AddClassesActivity
 import com.uacam.pitbullmanagerapp.teacher.ClassesList
 import com.uacam.pitbullmanagerapp.teacher.DetailClassesActivity
 import com.uacam.pitbullmanagerapp.teacher.EditClassesActivity
-import kotlinx.android.synthetic.main.fragment_teacher_profile.*
-import kotlinx.android.synthetic.main.student_content.*
+
 
 class StudentClassesFragment : Fragment() {
     private lateinit var bindingFragmentStudentClasses: FragmentStudentClassesBinding

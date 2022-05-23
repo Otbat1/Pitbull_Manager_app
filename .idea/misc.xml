@@ -3,23 +3,33 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/drawable/credit_card.xml" value="0.1" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/drawable/ic_back.xml" value="0.1" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/drawable/ic_chat.xml" value="0.158" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/drawable/ic_credit_card.xml" value="0.101" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_account_recovery_student.xml" value="0.1" />
-        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_add_classes.xml" value="0.33" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_add_classes.xml" value="0.2" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_add_pagos.xml" value="0.25" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_detail_classes.xml" value="0.12092391304347826" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_detail_pagos.xml" value="0.22" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_edit_classes.xml" value="0.25" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_sign_up_student.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_sign_up_student.xml" value="0.1" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_sign_up_teacher.xml" value="0.33" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_student_session.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/activity_teacher_session.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/classes_content.xml" value="0.5" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/classes_content.xml" value="0.75" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/fragment_pago_student_teacher.xml" value="0.25" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
-        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/fragment_student_classes.xml" value="0.33" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/fragment_student_classes.xml" value="0.25787965616045844" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/fragment_student_users.xml" value="0.1" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/fragment_teacher_profile.xml" value="0.25" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/pagos_content.xml" value="0.33" />
         <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/layout/student_content.xml" value="0.1" />
-        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/menu/nav_menu_teacher.xml" value="0.2" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/leona/AndroidStudioProjects/PitbullManagerapp/app/src/main/res/menu/nav_menu_teacher.xml" value="0.22" />
       </map>
     </option>
   </component>
