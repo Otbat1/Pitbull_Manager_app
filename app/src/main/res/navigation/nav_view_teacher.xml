@@ -15,6 +15,10 @@
         tools:layout="@layout/fragment_student_users" />
 
     <fragment
+        android:id="@+id/navigation_pagos"
+        android:name="com.uacam.pitbullmanagerapp.teacher.fragments.StudentUsersFragment"
+        tools:layout="@layout/fragment_pago_student_teacher" />
+    <fragment
         android:id="@+id/navigation_profile"
         android:name="com.uacam.pitbullmanagerapp.teacher.fragments.TeacherProfileFragment"
         tools:layout="@layout/fragment_teacher_profile" />

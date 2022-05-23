@@ -10,10 +10,14 @@
         android:id="@+id/navigation_student"
         android:icon="@drawable/ic_person"
         android:title="@string/title_student" />
-
+    <item
+        android:id="@+id/navigation_pagos"
+        android:icon="@drawable/ic_user"
+        android:title="@string/title_Pagos" />
     <item
         android:id="@+id/navigation_profile"
         android:icon="@drawable/ic_user"
         android:title="@string/title_profile" />
+
 
 </menu>
