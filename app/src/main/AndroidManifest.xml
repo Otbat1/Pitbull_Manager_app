@@ -9,6 +9,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PitbullManagerApp">
         <activity
+            android:name=".teacher.DetailPagosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".teacher.AddPagosActivity"
+            android:exported="false" />
+        <activity
             android:name=".teacher.EditClassesActivity"
             android:exported="false" />
         <activity
