@@ -32,7 +32,7 @@ class SignInStudentActivity : AppCompatActivity() {
                         Toast.LENGTH_SHORT).show()
                 }
                 else -> {
-                    //signIn(mEmail, mPassword)
+                    signIn(mEmail, mPassword)
                 }
             }
         }
