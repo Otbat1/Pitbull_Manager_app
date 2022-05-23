@@ -22,7 +22,7 @@
         android:id="@+id/linearLayout3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
+        android:layout_marginTop="10dp"
         android:gravity="center"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
@@ -32,8 +32,8 @@
 
         <ImageView
             android:id="@+id/imageView2"
-            android:layout_width="250dp"
-            android:layout_height="250dp"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
             android:contentDescription="@string/all"
             app:srcCompat="@drawable/tkd"
             tools:ignore="VectorDrawableCompat" />
@@ -59,6 +59,39 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout3">
+
+        <EditText
+            android:id="@+id/firstNameEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginRight="24dp"
+            android:autofillHints="@string/FirstNameStudent"
+            android:background="@drawable/ic_field"
+            android:drawableStart="@drawable/ic_person"
+            android:drawableLeft="@drawable/ic_person"
+            android:drawablePadding="16dp"
+            android:ems="10"
+            android:hint="@string/FirstNameStudent"
+            android:inputType="textEmailAddress"
+            android:padding="16dp" />
+        <EditText
+            android:id="@+id/lastNameEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginRight="24dp"
+            android:autofillHints="@string/LastNameStudent"
+            android:background="@drawable/ic_field"
+            android:drawableStart="@drawable/ic_person"
+            android:drawableLeft="@drawable/ic_person"
+            android:drawablePadding="16dp"
+            android:ems="10"
+            android:hint="@string/LastNameStudent"
+            android:inputType="textEmailAddress"
+            android:padding="16dp" />
 
         <EditText
             android:id="@+id/emailEditText"
